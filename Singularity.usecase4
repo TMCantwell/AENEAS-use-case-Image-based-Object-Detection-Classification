@@ -56,7 +56,6 @@ pip install pillow
 pip install h5py
 pip install pandas
 pip install matplotlib
-pip install pickle
 pip install scikit-image
 pip install scikit-learn
 pip install scipy
