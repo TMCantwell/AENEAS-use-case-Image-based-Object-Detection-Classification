@@ -62,6 +62,7 @@ pip install scikit-learn
 pip install scipy
 pip install cython
 pip install jupyter
+pip install astropy
 yum -y install python36u-tkinter
 wget https://github.com/fizyr/keras-retinanet/releases/download/0.2/resnet50_coco_best_v2.0.3.h5
 mv resnet50_coco_best_v2.0.3.h5 /keras-retinanet/snapshots
