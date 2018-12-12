@@ -49,6 +49,7 @@ pip install progressbar2
 git clone https://github.com/TMCantwell/keras-retinanet.git
 cd keras-retinanet
 python setup.py build_ext --inplace
+pip install . --user
 cd ..
 pip install numpy
 pip install opencv-python
