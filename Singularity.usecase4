@@ -55,6 +55,8 @@ pip install numpy
 yum -y install opencv
 yum -y install opencv-devel
 yum -y install opencv-python
+pip install opencv-python
+pip install Pillow
 pip install matplotlib
 pip install pillow
 pip install h5py
