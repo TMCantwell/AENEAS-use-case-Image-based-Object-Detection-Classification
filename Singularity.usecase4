@@ -48,6 +48,7 @@ pip install keras
 pip install progressbar2
 git clone https://github.com/TMCantwell/keras-retinanet.git
 cd keras-retinanet
+pip install .
 cd ..
 pip install numpy
 yum -y install opencv
