@@ -37,7 +37,7 @@ virtualenv --system-site-packages /tensorflow
 virtualenv --system-site-packages -p python3.6 /tensorflow
 source /tensorflow/bin/activate
 easy_install -U pip
-pip3 install tensorflow-gpu
+pip3 install tensorflow-gpu==1.10.1
 deactivate
 yum -y install hdf5
 yum -y install hdf5-devel
