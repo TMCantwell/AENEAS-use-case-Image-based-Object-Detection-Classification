@@ -12,6 +12,7 @@ yum -y install python36u
 yum -y install python36u-pip
 yum -y install python36u-devel
 yum -y install epel-release
+yum -y install cuda
 pip3.6 install -U virtualenv
 virtualenv --system-site-packages /tensorflow
 virtualenv --system-site-packages -p python3.6 /tensorflow
